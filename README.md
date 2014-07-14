@@ -10,8 +10,9 @@ code:
 http://lab.hakim.se/linjer/js/linjer.js<br><br>
 example:
 http://500.chromeexperiments.com/<br>
-code:
-http://500.chromeexperiments.com/src/ExperimentParticle.js<br>
+code:<br>
+spring physics: http://500.chromeexperiments.com/third-party/traer.js<br>
+particle: http://500.chromeexperiments.com/src/ExperimentParticle.js<br>
 http://500.chromeexperiments.com/src/main.js
 
 #软体运动
