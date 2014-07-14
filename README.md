@@ -7,7 +7,11 @@ http://hakim.se/experiments/html5/trail/03/js/trail.js<br><br>
 example:
 http://lab.hakim.se/linjer/#circle<br>
 code:
-http://lab.hakim.se/linjer/js/linjer.js
+http://lab.hakim.se/linjer/js/linjer.js<br>
+example:
+http://500.chromeexperiments.com/<br>
+code:
+http://500.chromeexperiments.com/src/main.js
 
 #软体运动
 example&code:
