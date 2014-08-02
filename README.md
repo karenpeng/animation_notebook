@@ -27,7 +27,7 @@ http://www.staggeringbeauty.com/<br>
 code:
 http://www.staggeringbeauty.com/src/main.js<br>
 
-Contact里面的弦
-https://vimeo.com/82107250
-Code:
-https://github.com/felixfaire/CONTACT/tree/master/FelixFaireContactTable
+Contact里面的弦<br>
+https://vimeo.com/82107250<br>
+Code:<br>
+https://github.com/felixfaire/CONTACT/tree/master/FelixFaireContactTable<br>
